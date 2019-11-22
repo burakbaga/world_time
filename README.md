@@ -9,7 +9,7 @@ Flutter world time application
 
 
 ## If we click edit locaiton, we can change the city
-![alt text](https://github.com/burakbaga/world_time/blob/master/assets/chose_location.png)
+![alt text](https://github.com/burakbaga/world_time/blob/master/assets/choose_location.png)
 
 
 
