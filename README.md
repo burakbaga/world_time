@@ -1,4 +1,4 @@
-# world_time
+# World Time App
 Flutter world time application
 ## Home Screen
 ![alt text](https://github.com/burakbaga/world_time/blob/master/assets/home.png)
